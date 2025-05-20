@@ -1,1 +1,57 @@
 
+
+.btn{
+
+  border-radius: 10px;
+  background-color: purple;
+
+}
+.cards{
+  gap: 10px;
+
+  justify-content: center;
+}
+.card{
+  width: 18rem;
+}
+
+.habilidades{
+    padding: 50px;
+  background-color: purple;
+  align-items: center;
+  justify-content: center;
+}
+.habilidades h1{
+  color: white;
+}
+.colorido{
+  background-color: purple;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.perfil{
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  margin: 0 auto;
+
+}
+
+.perfil img{
+  width: 280px;
+  height: 280px;
+  object-fit: cover;
+}
+
+i{
+  font-size: 30px;
+  padding: 5px 0;
+}
+footer{
+  padding: 20px;
+  background-color: plum;
+  color: white;
+}
+
