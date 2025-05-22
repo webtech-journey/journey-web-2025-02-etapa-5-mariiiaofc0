@@ -1,19 +1,13 @@
 # 🧪 Relatório de Avaliação – Autograder HTML - mariiiaofc0
 
-**Data:** 20/05/2025 18:56
+**Data:** 22/05/2025 17:10
 
-**Nota Final:** `58.33/100`
-**Status:** ❌ Reprovado
+**Nota Final:** `90.00/100`
+**Status:** ✅ Aprovado
 
 ---
 ## ✅ Requisitos Obrigatórios (80%)
-- Foram encontrados `3` problemas nos requisitos obrigatórios. Veja abaixo os testes que falharam:
-  - ⚠️ **Falhou no teste**: `test_base.py::test_sections_exist`
-    - **Melhoria sugerida**: Uma ou mais seções obrigatórias estão ausentes. Verifique se usou os IDs: apresentacao, habilidades, aprendizado, contato.
-  - ⚠️ **Falhou no teste**: `test_base.py::test_responsive_layout`
-    - **Melhoria sugerida**: O layout não utiliza a estrutura responsiva do Bootstrap. Utilize 'container', 'row' e 'col' corretamente.
-  - ⚠️ **Falhou no teste**: `test_base.py::test_grid_diversity`
-    - **Melhoria sugerida**: Apenas uma variação de grid foi usada. Use diferentes classes para garantir responsividade adequada.
+- Todos os requisitos básicos foram atendidos. Excelente trabalho!
 
 ## ⭐ Itens de Destaque (20%)
 - Você conquistou `3` bônus! Excelente trabalho nos detalhes adicionais!
@@ -25,9 +19,7 @@
     - Atributos de acessibilidade como alt, aria ou label foram utilizados.
 
 ## ❌ Problemas Detectados (Descontos de até -30%)
-- Foram encontrados `1` problemas que acarretam descontos. Veja abaixo os testes penalizados:
-  - ⚠️ **Falhou no teste de penalidade**: `test_penalty.py::test_no_sections`
-    - **Correção sugerida**: Seções principais estão devidamente presentes no HTML.
+- Nenhuma infração grave foi detectada. Muito bom nesse aspecto!
 
 ---
 Continue praticando e caprichando no código. Cada detalhe conta! 💪
